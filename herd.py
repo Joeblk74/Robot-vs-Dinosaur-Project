@@ -1,9 +1,8 @@
 from dinosaur import Dinosaur
 class Herd:
     def __init__(self):
-        self.dinosaurs = [] # add three Dinosaur objects
-        # Create a Herd object in main.py and debug
-    def create_fleet(self):
+        self.dinosaurs = []
+    def create_herd(self):
         pass
 
 dinosaur1 = Dinosaur('Stegosaurus')
