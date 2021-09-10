@@ -1,4 +1,3 @@
-# from battlefield import Battlefield
 from dinosaur import Dinosaur
 from robot import Robot
 
@@ -12,6 +11,6 @@ dinosaur2 = Dinosaur('Flinstone')
 dinosaur3 = Dinosaur('Megladonindominus Rex')
 print(dinosaur1.name)
 # battle1 = robot1.attack(dinosaur1)
-# print("Welcome to Robots vs Dinosaurs!")
+print("Welcome to Robots vs Dinosaurs!")
 
 # print(dinosaur1.health)
