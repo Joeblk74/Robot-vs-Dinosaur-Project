@@ -1,7 +1,11 @@
-#from battlefield import Battlefield
+from battlefield import Battlefield
 from dinosaur import Dinosaur
 
-dinosaur1 = Dinosaur('Frank')
-dinosaur2 = Dinosaur('Lisa')
-dinosaur3 = Dinosaur('Tom')
-print(dinosaur1.name)
+def __init__(self, dinosaur, battlefield):
+    self.dinosaur = Dinosaur
+    self.battlefield = Battlefield
+
+# battle1 = robot1.attack(dinosaur1)
+# print("Welcome to Robots vs Dinosaurs!")
+
+# print(dinosaur1.health)
